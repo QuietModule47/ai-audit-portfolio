@@ -29,4 +29,7 @@ All audit samples are located in the `samples/` folder and follow a consistent s
 This portfolio is designed for:
 - Demonstrating AI governance and auditing skills  
 - Showcasing structured analysis for professional or academic review  
-- Providing clear examples of risk‑oriented evaluation frameworks  
+- Providing clear examples of risk‑oriented evaluation frameworks
+-  
+## Contact
+For inquiries or collaboration requests, please open an Issue in this repository.
