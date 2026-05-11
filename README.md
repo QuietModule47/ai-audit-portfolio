@@ -1,4 +1,4 @@
- Structured Reasoning & Conceptual Analysis Portfolio
+## Structured Reasoning & Conceptual Analysis Portfolio
 
 This repository presents a set of structured analyses focused on reasoning,
 implicit assumptions, value frameworks, and political–philosophical implications.
