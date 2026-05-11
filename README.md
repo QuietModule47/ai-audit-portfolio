@@ -1,35 +1,61 @@
-# AI Output Audit Portfolio
+ Structured Reasoning & Conceptual Analysis Portfolio
 
-A structured portfolio demonstrating professional AI output auditing skills.
+This repository presents a set of structured analyses focused on reasoning,
+implicit assumptions, value frameworks, and political–philosophical implications.
+The aim is to examine how statements—whether produced by humans or AI systems—
+encode conceptual structures that shape interpretation and action.
 
-## Overview
-This repository contains a set of structured audits analyzing AI‑generated statements.
-Each audit evaluates issues related to:
-- Scope and assumptions
-- Responsibility and accountability
-- Definitions and ambiguity
-- Causality and reasoning
-- Transparency and governance
-- Bias, fairness, and democratic impact
+The portfolio does not target AI outputs exclusively.  
+AI-generated statements are included as one application of a general analytical method.
 
-## Folder Structure
-ai-audit-portfolio/
-  README.md
-  samples/
-      sample1_autonomy.md
-      sample2_values.md
-      sample3_bias.md
-      sample4_emergency.md
-      sample5_democracy.md
-      
-## Samples
-All audit samples are located in the `samples/` folder and follow a consistent structure for evaluating AI‑related claims.
+---
 
 ## Purpose
-This portfolio is designed for:
-- Demonstrating AI governance and auditing skills  
-- Showcasing structured analysis for professional or academic review  
-- Providing clear examples of risk‑oriented evaluation frameworks
--  
+
+To provide a consistent framework for analyzing:
+
+- reasoning structure  
+- scope and underlying assumptions  
+- agency and responsibility framing  
+- value and normative commitments  
+- political, ethical, and institutional implications  
+- conceptual architecture behind statements or models  
+
+The method is applicable to AI outputs, public discourse, policy arguments,
+and other forms of structured or semi-structured reasoning.
+
+---
+
+## Current Samples
+
+The current samples apply the analytical framework to AI-generated statements.
+They illustrate how the method decomposes:
+
+- implicit premises  
+- normative direction  
+- embedded political concepts  
+- risk framing  
+- crisis or emergency reasoning  
+
+These samples are demonstrations of the broader analytical approach.
+
+---
+
+## Scope
+
+This portfolio is part of a wider exploration of:
+
+- conceptual systems  
+- political and ethical structures  
+- reasoning models  
+- institutional and societal “OS”  
+- narrative and value architectures  
+
+The goal is not to evaluate correctness, but to clarify structure.
+
+---
+
 ## Contact
-For inquiries or collaboration requests, please open an Issue in this repository.
+
+If you have inquiries or wish to discuss the analytical framework,
+please open an Issue in this repository.
