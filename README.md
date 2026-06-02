@@ -46,10 +46,6 @@ This portfolio is part of a wider, ongoing exploration into:
 
 ---
 
-## Contact
-If you have inquiries, collaboration proposals, or wish to discuss the analytical framework, please open an **Issue** in this repository.
-
----
 
 ## 📬 Contact & Independent Audits
 Available for independent architecture audits, whitepaper reviews, and systemic vulnerability analysis. 
