@@ -51,6 +51,6 @@ The AIL Framework is architecturally validated: **it is a robust, sovereign, and
 
 ---
 
-> **Audit Notes:**
-> * Audit conducted via qualitative structural analysis of the official framework blueprints, system documentation, and core intelligence lifecycles.
-> * This assessment evaluates structural resilience, governance integration, and logical consistency inherent in the platform's stated open-source specifications.
+>> **Audit Notes:**
+> * This audit was conducted by logically interpreting and evaluating the specifications and descriptions provided in the official documentation (text-based analysis).
+> * This assessment evaluates the level of logical consistency and governance awareness inherent in the platform's self-stated public specifications.
