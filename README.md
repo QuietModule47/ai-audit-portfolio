@@ -47,9 +47,5 @@ This portfolio is part of a wider, ongoing exploration into:
 ---
 
 
-## 📬 Contact & Independent Audits
-Available for independent architecture audits, whitepaper reviews, and systemic vulnerability analysis. 
 
-* **Contact:** S.Ashfield@tutamail.com (Secured via Tuta E2EE)
-* **Encryption:** End-to-End Encrypted (E2EE) inquiries welcome.
 
